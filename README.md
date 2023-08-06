@@ -11,8 +11,6 @@ The CountryGwp API is a self-hosted web API that calculates the average gross wr
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
