@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galytix", "Galytix\Galytix.csproj", "{001D7DC1-1ECE-4954-BA84-6FB36B0A2C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalytixTests", "GalytixTests\GalytixTests.csproj", "{8B5F9CE6-A0C2-4A9B-9511-09DBB6C5F316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001D7DC1-1ECE-4954-BA84-6FB36B0A2C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001D7DC1-1ECE-4954-BA84-6FB36B0A2C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001D7DC1-1ECE-4954-BA84-6FB36B0A2C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001D7DC1-1ECE-4954-BA84-6FB36B0A2C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5F9CE6-A0C2-4A9B-9511-09DBB6C5F316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5F9CE6-A0C2-4A9B-9511-09DBB6C5F316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5F9CE6-A0C2-4A9B-9511-09DBB6C5F316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5F9CE6-A0C2-4A9B-9511-09DBB6C5F316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A2F7B90-744B-4E86-9CC4-3E2584AED163}
+	EndGlobalSection
+EndGlobal
