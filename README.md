@@ -65,5 +65,5 @@ The response will be a JSON object containing the average GWP for each line of b
 {
     "transport": 446001906.1,
     "liability": 634545022.9
-}```
+}
 
